@@ -293,7 +293,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #ffffff;
   text-decoration: underline;
 }
 a:focus {
@@ -4691,7 +4691,7 @@ a.list-group-item-info .list-group-item-heading {
 }
 a.list-group-item-info:hover,
 a.list-group-item-info:focus {
-  color: #31708f;
+  color: #ffffff;
   background-color: #c4e3f3;
 }
 a.list-group-item-info.active,
