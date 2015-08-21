@@ -83,6 +83,8 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
+    background-image: url("../img/DSC_0133.jpg");
+    background-size: cover;
 }
 
 header .container {
@@ -115,7 +117,7 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 6em;
     }
 
     header .intro-text .skills {
@@ -168,6 +170,18 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+}
+
+.navbar-brand a {
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+
+#watermark {
+    width: 50%;
+
 }
 
 section {
